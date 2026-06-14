@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi Nalawade 👋
 
-<!--
-**vaishu159878/vaishu159878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I'm currently learning DevOps through the **90 Days of DevOps Challenge** and building hands-on projects to strengthen my Linux, Cloud, and Automation skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* Linux Administration
+* Git & GitHub
+* Shell Scripting
+* Docker
+* AWS Cloud
+* CI/CD Fundamentals
+
+## 🛠️ Skills & Tools
+
+* Linux
+* Git & GitHub
+* Bash/Shell Scripting
+* Docker
+* AWS
+* Python (Basics)
+
+## 📂 Featured Repositories
+
+* 90-days-of-devops
+* shell-scripts
+* devops-notes
+* docker-labs
+* aws-projects
+
+## 🎯 Career Goal
+
+To start my career as a DevOps/Cloud Engineer and continuously improve my automation and cloud skills.
+
+## 📫 Connect With Me
+
+* GitHub: github.com/vaishu159878
+* LinkedIn: www.linkedin.com/in/vaishnavi-nalawade-9596b61a1
+
