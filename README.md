@@ -37,5 +37,5 @@ To start my career as a DevOps/Cloud Engineer and continuously improve my automa
 ## 📫 Connect With Me
 
 * GitHub: github.com/vaishu159878
-* LinkedIn: www.linkedin.com/in/vaishnavi-nalawade-9596b61a1
+* LinkedIn: www.linkedin.com/in/vaishnavi-nalawade-devops
 
