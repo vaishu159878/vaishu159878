@@ -2,11 +2,9 @@
 
 ### ☁️ Aspiring Cloud & DevOps Engineer
 
-I'm an MCA graduate building hands-on experience in **AWS, Linux, Docker,
-Kubernetes, Terraform, Ansible, GitHub Actions and CI/CD**.
+I'm an MCA graduate building hands-on experience in **AWS, Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions and CI/CD**.
 
-I learn by building real projects, troubleshooting deployment issues,
-and documenting my progress through my **#90DaysOfDevOps journey**.
+I learn by building real projects, troubleshooting deployment issues, and documenting my progress through my **#90DaysOfDevOps journey**.
 
 🎯 **Currently looking for Fresher / Entry-Level Cloud & DevOps opportunities.**
 
@@ -14,7 +12,7 @@ and documenting my progress through my **#90DaysOfDevOps journey**.
 
 ## 🛠️ Skills & Tools
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud
 - AWS EC2
 - AWS VPC
 - IAM
@@ -26,10 +24,10 @@ and documenting my progress through my **#90DaysOfDevOps journey**.
 ### 🐧 Linux & Scripting
 - Linux Administration
 - Bash / Shell Scripting
+- Networking
 - Users & Groups
 - File Permissions
 - Processes & Systemd
-- Linux Networking
 - Cron Jobs
 
 ### 🐳 Containers
@@ -39,13 +37,12 @@ and documenting my progress through my **#90DaysOfDevOps journey**.
 
 ### ☸️ Kubernetes
 - Kubernetes
-- Kind
 - Amazon EKS
+- Kind
 - Deployments & Services
 - ConfigMaps & Secrets
 - Persistent Volumes & PVCs
 - StatefulSets
-- Resource Requests & Limits
 - HPA
 - Metrics Server
 - Helm
@@ -54,14 +51,13 @@ and documenting my progress through my **#90DaysOfDevOps journey**.
 - Terraform
 - Terraform Modules
 - Terraform Workspaces
-- Remote State with S3
+- AWS S3 Remote State
 
 ### ⚙️ Automation & CI/CD
 - Ansible
 - Ansible Roles
 - GitHub Actions
 - CI/CD Pipelines
-- Docker Build & Push
 
 ### 🔐 DevSecOps & Observability
 - Trivy
@@ -81,74 +77,76 @@ and documenting my progress through my **#90DaysOfDevOps journey**.
 
 ### ☸️ AI BankApp DevOps
 
-A hands-on DevOps project focused on deploying a banking application using **Docker, Kubernetes and Helm**, including MySQL deployment and Kubernetes configuration.
+Deploying a banking application using **Docker, Kubernetes and Helm**, with MySQL and Kubernetes-based configuration.
 
-**Technologies:**  
-`Docker` `Kubernetes` `Helm` `MySQL`
+**Tech:** `Docker` `Kubernetes` `Helm` `MySQL`
 
 ---
 
 ### 🔄 GitHub Actions CI/CD
 
-Built an end-to-end CI/CD pipeline using **GitHub Actions**, Docker and Docker Hub, with container security scanning using **Trivy**.
+Built an end-to-end CI/CD workflow using **GitHub Actions, Docker and Docker Hub**, including container security scanning with Trivy.
 
-**Technologies:**  
-`GitHub Actions` `Docker` `Docker Hub` `Trivy` `CI/CD`
+**Tech:** `GitHub Actions` `Docker` `Trivy` `CI/CD`
 
 ---
 
 ### 📊 Observability Stack
 
-Built a containerized observability environment to collect and visualize application and infrastructure metrics and logs.
+Built a containerized observability stack for collecting and visualizing infrastructure metrics and application logs.
 
-**Technologies:**  
-`Prometheus` `Grafana` `Loki` `Promtail` `cAdvisor` `OpenTelemetry` `Docker Compose`
-
----
-
-### ☁️ AWS & Terraform Infrastructure
-
-Practiced provisioning AWS infrastructure using Terraform, including networking, EC2 and EKS resources.
-
-**Technologies:**  
-`AWS` `Terraform` `VPC` `EC2` `EKS` `IAM`
+**Tech:** `Prometheus` `Grafana` `Loki` `Promtail` `cAdvisor` `OpenTelemetry`
 
 ---
 
-### ⚙️ Ansible Server Automation
+### ☁️ AWS & Terraform
 
-Automated Ubuntu server configuration and application setup using Ansible playbooks and reusable roles.
+Provisioned AWS infrastructure using **Terraform**, including networking, EC2 and EKS resources.
 
-**Technologies:**  
-`Ansible` `AWS EC2` `Docker` `Nginx` `Linux`
+**Tech:** `AWS` `Terraform` `VPC` `EC2` `EKS`
+
+---
+
+### ⚙️ Ansible Automation
+
+Automated Ubuntu server configuration, Docker installation and Nginx setup using **Ansible playbooks and roles**.
+
+**Tech:** `Ansible` `Linux` `Docker` `Nginx` `AWS EC2`
 
 ---
 
 ## 📚 #90DaysOfDevOps
 
-I'm documenting my hands-on DevOps learning journey through practical projects, troubleshooting, and implementation notes.
+Documenting my hands-on learning journey through practical projects, troubleshooting and implementation notes.
 
-### Areas I've Practiced
+**Focus areas:**
 
-```text
-Linux
-  ↓
-Git & GitHub
-  ↓
-Shell Scripting
-  ↓
-Docker
-  ↓
-AWS
-  ↓
-Kubernetes
-  ↓
-Terraform
-  ↓
-Ansible
-  ↓
-GitHub Actions
-  ↓
-Helm
-  ↓
-Observability
+`Linux` → `Git` → `Docker` → `AWS` → `Kubernetes` → `Terraform` → `Ansible` → `CI/CD` → `Helm` → `Observability`
+
+🔗 [View my 90DaysOfDevOps journey](https://github.com/vaishu159878/90DaysOfDevOps)
+
+---
+
+## 🎯 Career Goal
+
+I'm looking to start my career in **Cloud & DevOps**, where I can work with cloud infrastructure, automation, containers, Kubernetes and CI/CD pipelines.
+
+### Interested In
+
+- Cloud Engineer
+- AWS Cloud Engineer
+- DevOps Engineer
+- Junior / Entry-Level Cloud & DevOps roles
+
+---
+
+## 📫 Connect With Me
+
+- 💻 [GitHub](https://github.com/vaishu159878)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-nalawade-devops)
+
+---
+
+### 🚀 Build → Break → Debug → Learn → Improve
+
+Thanks for visiting my profile!
